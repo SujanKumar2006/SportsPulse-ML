@@ -1,0 +1,26 @@
+# Data cache — too large for git
+ipl/ipl_data_cache/
+football/outputs/
+ipl/ipl_outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
